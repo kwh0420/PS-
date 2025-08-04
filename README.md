@@ -1,2 +1,2 @@
 # PS-
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+김우현의 백준 풀이 모음입니다!
